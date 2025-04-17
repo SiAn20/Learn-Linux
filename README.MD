@@ -102,4 +102,3 @@ Dentro de BIOS/UEFI:
 6. Comenzar la instalación.
 7. Al reiniciar, aparecerá un menú (GRUB) para elegir entre Linux o Windows.
 
-¿Deseas que también incorpore conceptos sobre virtualización de Linux en Windows (por ejemplo con VirtualBox o WSL)? También podría incluir comandos básicos post-instalación.
